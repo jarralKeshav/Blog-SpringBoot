@@ -4,7 +4,6 @@ import com.studyeasy.springBlog.models.Authority;
 import com.studyeasy.springBlog.repositories.AccountRepository;
 import com.studyeasy.springBlog.security.config.AppProperties;
 import com.studyeasy.springBlog.utils.constants.Roles;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
